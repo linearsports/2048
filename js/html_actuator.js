@@ -68,7 +68,7 @@ HTMLActuator.prototype.addTile = function (tile) {
       inner.textContent = '临沂师范';
       break;
     case 4:
-      inner.textContent = '体育老师';
+      inner.textContent = '误人子弟';
       break;
     case 8:
       inner.textContent = '白俄罗斯';
